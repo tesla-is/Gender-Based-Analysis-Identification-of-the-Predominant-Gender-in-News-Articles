@@ -1,0 +1,53 @@
+The need for women in technology
+CONCORDIA UNIVERSITY, ST. PAUL MARCH 27, 2019 9:06 AM
+
+Presented by Concordia University, St. Paul Online
+
+There is evidence that the technology shortage is undermining business performance. In a 2016 survey from IT outsourcer Harvey Nash and auditing firm KPMG, 65 percent of chief information officers (CIOs) and other business leaders said that recruitment issues were harming IT modernization efforts.
+
+“That’s pretty staggering,” Bob Miano, president and CEO of Harvey Nash USA, told The Wall Street Journal. “CIOs may have great ideas but if you can’t get the IT talent, that’s a growing problem.”
+
+Recruiting more women into the technology industry is an obvious solution. Interestingly, technology is the only STEM discipline where the participation of women has declined in the past 20 years, tech leader Judith Spitz said at an innovation conference. The need for tech professionals is not the only reason, nor is it the most important argument, for achieving better gender diversity in technology. A lack of women in technology can lead to a decrease in performance and profits, creating a missed opportunity for those businesses.
+
+The impact of having more women in technology
+Literature examining the impact of women in the workplace — specifically women collaborating on teams and in leadership roles — demonstrates the need for and impact of having more women in technology. Greater gender diversity in technology can impact businesses’ bottom lines, as research from Morgan Stanley indicated.
+
+Calls for more female participation in the economy have grown louder, often based on political or cultural arguments founded on fairness. Yet, a persuasive argument for diversity and equality can also be anchored to the bottom line, where ensuring that more women are working and leading in the workplace is simply good business, especially for investors who not only care about the ethics, but also want returns.
+
+Female employees’ influence
+In sectors where employee engagement and satisfaction are reflected by the quality of the product or service, gender diversity is especially important, according to Morgan Stanley. That statement applies to technology as well as financial, retail, and leisure and business services.
+
+Horizontal bar graph of performance among companies in the top, middle and bottom third in terms of percentage of women employees.
+Take one example examining companies’ return on equity (ROE) over the past six years. For companies with more gender diversity, they had, on average, 0.7 percent better ROE than regional sector peers. The number increased to 1.1 percent better ROE than businesses with low rep
+
+resentation of women in the workplace. Higher gender diversity teams not only enjoyed better returns, but lower volatility. Also, in the past five years, those companies moderately outperformed companies with low diversity or sector peers.
+
+Other findings support Morgan Stanley’s research. One report from management consulting firm McKinsey found that for companies in the top quartile for gender diversity, they were 15 percent more likely to have higher financial returns than national industry medians. A field experiment published in Management Science found that teams with an equal gender mix had better sales and profits than male-dominated teams. Research in the American Sociological Reviewconcluded that gender diversity was associated with increased sales revenue, more customers, and greater relative profits.
+
+Why does gender diversity in technology and other sectors lead to better performance? Researchers use the term “general collective intelligence” to refer to groups’ ability to perform well across a wide variety of tasks, and the concept is similar to general intelligence metrics for individuals, according to Topics in Cognitive Science. Studies published in Science found that teams’ collective intelligence increased with the number of women in the group. One explanation is that the presence of women enhanced collective social sensitivity, leading to higher collective intelligence.
+
+The takeaway is that having gender diversity can boost profits and increase productivity. Adding more women in technology can directly influence achieving business goals.
+
+Take a look at the in-demand tech industry with our free guide.
+
+Female leaders’ influence
+Based on research conducted by strengths-based leadership firm Zenger Folkman, women are often better leaders than men. The results were based on a sample of more than 7,000 leaders at high performing companies.
+
+Women in technology were especially well-represented. Ratings for the leadership effectiveness of women versus men were the most pronounced in information technology, where women had a percentile score of 52.1 compared to 42.0 for men. In addition to information technology, the largest gaps came in other male-dominated functions like engineering, research and development, legal, product development, and sales. Females were rated more positively in 12 of the top 16 job functions surveyed.
+
+Other findings revealed that female leaders were ranked better than male leaders. That held true for leadership effectiveness by position and top competencies. Note that on survey items for competencies, females scored significantly more positive on 36 of 49 items, compared to two items for men. The remaining survey items were neutral.
+
+A report from financial services company Credit Suisse verified the trends in Zenger Folkman’s research. Covering more than 3,000 companies across 40 countries and all major sectors, Credit Suisse found that organizations with more women on the board of directors had better returns on equity, higher payouts of dividends, and better stock performance.
+
+For instance, companies that had more than 15 percent of women in top management roles earned an annual ROE of 14.7 percent. Compare that with the 9.7 percent ROE for companies where women represent less than 10 percent of top management roles.
+
+Visual chart showing percentages of return companies experience based on female representation.
+After detailing data points in the report, Credit Suisse commented that “. . . whatever the more qualitative judgements as to the benefits of greater diversity may be, there appears to be a material quantitative consideration for investors.” The message is clear: female leaders can be more effective leaders, which has a direct impact on employee development and performance, as well as company profits. Among other industries, technology companies should take note and focus on hiring more women in leadership positions.
+
+Implementing gender diversity in technology
+How can businesses attract more women in technology roles and leadership positions? That’s a challenging task, according to Gianna Scorsone, chief operations officer at staffing agency Mondo, but there are a few ways to enhance gender diversity in technology.
+
+Focus on unconscious biases: Hiring and management practices can involve unfairness and biases that occur unconsciously. Left unchecked, they can create defensiveness for employees about the way things are. Companies should check job postings for gendered wording, and anything else that might send the wrong message.
+Include women in the hiring process: Having women interview and hire people can remove bias in the process. Another benefit is that strong female representation can lead to female employees wanting to join that type of organization.
+Expand work-life policies: Inflexible work arrangements disproportionately impacts women, with the most common example of childcare. The technology industry is becoming more comfortable with non-traditional work arrangements, and that can provide a relatively easy way to help attract increase the number of women in technology.
+Convenient educational options can also help women get the education needed for several lucrative, in-demand careers. If you’re interested in a technology career, an online B.S. in Computer Science or an online IT degree can prepare you for roles like database administrator, software developer, web developer, IT manager, information security analyst, and more. If you already have your bachelor’s degree, you can pursue a higher salary potential and more advanced roles with an online master’s in IT.
